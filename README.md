@@ -13,7 +13,7 @@
 </div>
 
 ## Roadmap
-- [ ] Hello, World!
+- [x] Hello, World!
 - [ ] Hello, Cargo!
 - [ ] Basic Syntaxt
 - [ ] Guessing Game

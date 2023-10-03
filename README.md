@@ -14,7 +14,7 @@
 
 ## Roadmap
 - [x] Hello, World!
-- [ ] Hello, Cargo!
+- [x] Hello, Cargo!
 - [ ] Basic Syntaxt
 - [ ] Guessing Game
 - [ ] 10 Easy Leetcode Questions in Rust

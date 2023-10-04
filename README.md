@@ -16,5 +16,5 @@
 - [x] Hello, World!
 - [x] Hello, Cargo!
 - [ ] Basic Syntaxt
-- [ ] Guessing Game
+- [x] Guessing Game
 - [ ] 10 Easy Leetcode Questions in Rust

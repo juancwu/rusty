@@ -8,12 +8,6 @@ fn main() {
 
     let number = rand::thread_rng().gen_range(1..=100);
 
-    let mut guess = String::new();
-
-    io::stdin()
-        .read_line(&mut guess)
-        .expect("Failed to read line");
-
     loop {
         println!("Please enter your guess.");
         let mut guess = String::new();

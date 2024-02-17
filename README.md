@@ -12,9 +12,6 @@
   
 </div>
 
-## Roadmap
-- [x] Hello, World!
-- [x] Hello, Cargo!
-- [ ] Basic Syntaxt
-- [x] Guessing Game
-- [ ] 10 Easy Leetcode Questions in Rust
+## Goal
+
+Learn enough Rust to complete my pi-metrics little project.
